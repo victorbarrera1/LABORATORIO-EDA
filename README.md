@@ -1,6 +1,7 @@
 # Laboratorio 1: Análisis Empírico y Teórico de Algoritmos
 
 **Universidad:** Universidad Diego Portales
+
 **Asignatura:** Estructuras de Datos y Algoritmos
 **Problema:** Diferencias repetidas  
 **Autores:** Víctor Barrera y Jesus Briceño  
