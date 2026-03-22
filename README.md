@@ -1,8 +1,8 @@
 # Laboratorio 1: Análisis Empírico y Teórico de Algoritmos
-##
-**Universidad:** Universidad Diego Portales 
-**Autores:** Víctor Barrera y Jesus Briceño  
-**Fecha:** 21 de Marzo del 2026 
+
+#**Universidad:** Universidad Diego Portales #
+#**Autores:** Víctor Barrera y Jesus Briceño#  
+#**Fecha:** 21 de Marzo del 2026 #
 
 ## Descripción del Proyecto
 Este repositorio contiene la solución al Laboratorio 1 de la asignatura Estructuras de Datos y Algoritmos. El proyecto consiste en realizar un estudio completo de complejidad temporal (tiempo de ejecución) de tres soluciones algorítmicas distintas para el problema "Diferencias repetidas".
