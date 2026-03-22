@@ -1,7 +1,6 @@
 # Laboratorio 1: Análisis Empírico y Teórico de Algoritmos
 
 **Universidad:** Universidad Diego Portales 
-**Asignatura:** Estructuras de Datos y Algoritmos 
 **Autores:** Víctor Barrera y Jesus Briceño  
 **Fecha:** 21 de Marzo del 2026 
 
