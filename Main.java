@@ -19,7 +19,7 @@ public class Main {
             int n = (int) Math.pow(2, t); // el n= (int) es porque el Math.pow devuelve decimales y lo "obligamos" a
             // tener enteros.
 
-            lib.StdRandom.setSeed(12345); // aqui se genera los numeros random, junto al semilla y ahi ocupamos el
+            lib.StdRandom.setSeed(67676); // aqui se genera los numeros random, junto al semilla y ahi ocupamos el
             // import lib.StdRandom
             lib.Out ArchivoCsv = new lib.Out("Resultado_" + n + ".csv"); // aqui le decimos al programa que cree
             // un archivo con el nombre y especificar que es un csv
